@@ -1,0 +1,14 @@
+{
+    "basic_info": {
+        "name": "m1337.obj", 
+        "class": "AircraftBuoyant", 
+        "filepath": "E:\\MR\\DATASET\\ShapeDatabase_INFOMR-master\\AircraftBuoyant\\m1337.obj", 
+        "file_extension": ".obj"
+    }, 
+    "mesh_info": {
+        "vertices": 1020, 
+        "surfaces": 340, 
+        "surface_types": ""
+    }, 
+    "mesh_obj": "HERE IS GOING TO BE THE MESH OBJECT"
+}
